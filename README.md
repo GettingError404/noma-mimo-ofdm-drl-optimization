@@ -47,7 +47,7 @@ python experiments/evaluate_baselines.py
 
 If you use this code, please cite:
 ```bibtex
-@article{yourname2025drl,
+@article{bashidtagala2025drl,
   title={Deep Reinforcement Learning for Joint Power Allocation and User Pairing in NOMA-MIMO-OFDM Systems},
   author={Bashid Tagala},
   journal={Under Review},

@@ -18,4 +18,6 @@ results/training_logs/*.json
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.dbnoma_drl_colab.zip
+results_snapshots/
+noma_drl_colab.zip

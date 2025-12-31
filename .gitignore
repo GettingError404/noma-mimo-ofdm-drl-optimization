@@ -6,6 +6,11 @@ __pycache__/
 .Python
 env/
 venv/
+results/
+analysis/
+results/**/*.png
+results/**/*.json
+results/**/*.csv
 
 # Results (optional - comment out if you want to include)
 results/models/*.pth
